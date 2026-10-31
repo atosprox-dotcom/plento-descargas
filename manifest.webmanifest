@@ -1,0 +1,26 @@
+{
+  "name": "Plento",
+  "short_name": "Plento",
+  "description": "Planes con tus amigos",
+  "lang": "es",
+  "start_url": "/plento-descargas/",
+  "scope": "/plento-descargas/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/plento-descargas/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/plento-descargas/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
